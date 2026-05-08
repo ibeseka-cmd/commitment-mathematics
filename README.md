@@ -2,11 +2,16 @@
 Mathematical language for relational structures and the construction of reality.
 
 The Inversion
+
 The founding assumption of Western science is that substances exist first. Entities have properties before they enter relations. A particle is constituted before it interacts. An agent has interests before it enters a contract. A resource has value before it enters exchange. Relations are secondary — what happens between things already fully formed.
+
 Commitment Mathematics begins by refusing this assumption. Not as a philosophical preference, but as a formal decision with structural consequences that propagate through everything that follows.
 The refusal is this: relations are primary. Substance is derivative. The Liable Authority L and the Holding Entity H are not pre-existing agents who enter a commitment. They are roles constituted by the commitment itself. Remove all commitments and there is no L, no H, no agent — only the empty state graph. The commitment is not a relation between prior individuals. The individuals are functions of the commitment.
+
 This is the ontological inversion, and it has an immediate formal consequence. Under substance ontology, the natural question about a commitment is L’s question: what is owed? The answer is one-dimensional — a scalar CV₀, fixed at bilateral agreement and unchanged by anything that follows. L owes exactly CV₀ regardless of whether the content is visible, the pledge is reliable, or the value can propagate.
+
 Under relational ontology, the primary question is H’s question: what can be realized? The answer is six-dimensional. The same CV₀ realizes different values depending on whether the commitment’s content is accessible (V), whether the pledge will be fulfilled (A), whether the value can propagate onward (T), whether frames are aligned (ℹ), and how deep in a derivation chain the commitment sits (d). Zero in any one of these collapses realization to zero regardless of what the others are. Value does not exist prior to the conditions of its realization. It is constituted by them.
+
 The entire architecture of Commitment Mathematics — the three Generators, the Fabric, Channels, Time, the control architecture, Infrastructure Commitments, and the two Relational Value Invariants — is the formal elaboration of H’s question. It is what is forced into existence when the claim is taken seriously that realization, not existence, is the fundamental act.
 
 Reality, in this framework, is not pre-given. It is continuously built.
