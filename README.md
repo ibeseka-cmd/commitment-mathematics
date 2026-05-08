@@ -1,7 +1,7 @@
 # commitment-mathematics
 Mathematical language for relational structures and the construction of reality.
 
-I.  The Inversion
+The Inversion
 The founding assumption of Western science is that substances exist first. Entities have properties before they enter relations. A particle is constituted before it interacts. An agent has interests before it enters a contract. A resource has value before it enters exchange. Relations are secondary — what happens between things already fully formed.
 Commitment Mathematics begins by refusing this assumption. Not as a philosophical preference, but as a formal decision with structural consequences that propagate through everything that follows.
 The refusal is this: relations are primary. Substance is derivative. The Liable Authority L and the Holding Entity H are not pre-existing agents who enter a commitment. They are roles constituted by the commitment itself. Remove all commitments and there is no L, no H, no agent — only the empty state graph. The commitment is not a relation between prior individuals. The individuals are functions of the commitment.
